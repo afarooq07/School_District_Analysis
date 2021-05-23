@@ -19,4 +19,15 @@ In order to maintain the integrity of state testing standards, the board has req
 ## Results
 
 
+ - **District Summary:** Comparing summary results of the original and repeated analysis, we can see that there isn't any significant difference in average and percentage scores. Repeated analysis show fractionally differences. Overall passing percentage difference is -0.15%
+<br />
+
+Original:
+<img src="/Images/original_district_summary.png" width=700 align=center>
+<br />
+
+Repeated:
+<img src="/Images/repeated_district_summary.png" width=700 align=center>
+<br />
+
 ## Summary
