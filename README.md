@@ -11,7 +11,7 @@ In order to maintain the integrity of state testing standards, the board has req
 ## Resources
 - Data Source:
     - Resources\schools_complete.csv
-    -Resources\students_complete.csv
+    - Resources\students_complete.csv
 - Code files:
     - PyCitySchools.ipynb (original analysis)
     - PyCitySchools_Challenge.ipynb (challenge 4 analysis)
