@@ -29,8 +29,9 @@ Original:
 Repeated:
 <img src="/Images/repeated_district_summary.png" width=700 align=center>
 <br />
+<br />
 
-- **School Summary:** Thomas High School summary comparison between original and repeated anaysis again shows small differences. Percentages and average scores in the second pass with 9th grade's score replaced with NaNs is slight lower than the original analysis. Overall passing % different is 0.34%.
+- **School Summary:** Thomas High School summary comparison between original and repeated anaysis again shows small differences. Percentages and average scores in the second pass with 9th grade's score replaced with NaNs is slight lower than the original analysis. Overall passing % difference is 0.34%.
 <br />
 
 Original:
@@ -41,6 +42,21 @@ Original:
 
 Repeated:
 <img src="/Images/repeated_school_summary.png" width=700 align=center>
+<br />
+<br />
+
+- **Thomas High School’s performance relative to the other schools:** School's standing is still the 2nd highest performaning school even after replace 9th grade's math and reading scored with NaNs.
+
+<br />
+<br />
+
+- **Affect of replacing  ninth-grade scores on the following:** Since there is no significant impact on Thomas High School performance as result of repeating anlysis with 9th grade scores set to NaNs, there is:
+    - No impact on other grade's (10th-12th) math and reading scores by grade for Thomas High School
+    - No impact on scores by school spending 
+    - No impact on scores by school size
+    - No Impact on scores by school type
+
+<br />
 <br />
 
 ## Summary
