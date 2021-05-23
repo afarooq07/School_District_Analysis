@@ -60,3 +60,13 @@ Repeated:
 <br />
 
 ## Summary
+
+<br />
+
+Overall, there does not seem to be any significant differences in averages and passing percentages after exluding 9th grade score from the analysis to indicate acedamic dishonesty:
+1) Thomas High school shows 0.34% decrease in overall passing % which is a fractional difference 
+2) Thomas High School maintains its status as 2nd highest performaning school in the district
+3) No changes/pattern changes were observed on metrics such as scored by school spending, size and typer
+4) District level summary does not show any major shift in stats, overall passing % decrease was 0.15% which is fairly minor as well.
+    
+<br />
