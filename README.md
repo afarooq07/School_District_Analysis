@@ -31,7 +31,7 @@ Repeated:
 <br />
 <br />
 
-- **School Summary:** Thomas High School summary comparison between original and repeated anaysis again shows small differences. Percentages and average scores in the second pass with 9th grade's score replaced with NaNs is slight lower than the original analysis. Overall passing % difference is 0.34%.
+- **School Summary:** Thomas High School summary comparison between original and repeated anaysis again shows small differences. Percentages and average scores in the second pass with 9th grade's score replaced with NaNs is slight lower than the original analysis. Overall passing % difference is 0.34%. All other school's averages and percentages remain the same.
 <br />
 
 Original:
