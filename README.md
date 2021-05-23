@@ -6,7 +6,7 @@ In Module 4, a chief data scientist, Maria, for a city school district was taske
 ## Scope
 After the initial analysis, Maria was notified by the school board of potential acedamic dishonesty specifically in regards to 9th grade reading and math score for Thomas high School. 
 
-The board would like the analysis repeated by replacing Thomas High School 9th grade math and reading score with NaN. Finally, an analysis report will be provided to examine how these changes impacted overall analysis
+In order to maintain the integrity of state testing standards, the board has request the analysis repeated by replacing Thomas High School 9th grade math and reading score with NaN. Finally, an analysis report will be provided to examine how these changes impacted overall analysis
 
 ## Resources
 - Data Source:
